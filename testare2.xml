@@ -2,44 +2,44 @@
 <Cheetah>
     <links>
         <link>
-            <url>https://www.google.com/search?q=Cheetah&amp;source=hp&amp;ei=YXh7Yr_CJYuFxc8PwsiIgAI&amp;iflsig=AJiK0e8AAAAAYnuGcbOKnTnvqflDTq6UykTJ7E-dEXEV</url>
+            <url>https://www.google.com/search?q=Cheetah&amp;source=hp&amp;ei=lJx7YtvdI5mTxc8PvtSKeA&amp;iflsig=AJiK0e8AAAAAYnuqpBlpGGALhDAEmPsN-aZy2HJ-7t06</url>
             <page-name>Cheetah - Căutare Google</page-name>
             <number-of-occurrence-of-yhe-word-on-page>264</number-of-occurrence-of-yhe-word-on-page>
         </link>
         <link>
-            <url>about:blank</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+            <url>https://en.wikipedia.org/wiki/Cheetah</url>
+            <page-name>Cheetah - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>1206</number-of-occurrence-of-yhe-word-on-page>
         </link>
         <link>
             <url>https://en.wikipedia.org/wiki/Asiatic_cheetah</url>
             <page-name>Asiatic cheetah - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>499</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://en.wikipedia.org/wiki/Cheetah_(disambiguation)</url>
+            <page-name>Cheetah (disambiguation) - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>176</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://en.wikipedia.org/wiki/American_cheetah</url>
+            <page-name>American cheetah - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>127</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://en.wikipedia.org/wiki/Sarah_(cheetah)</url>
+            <page-name>Sarah (cheetah) - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>105</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://kids.nationalgeographic.com/animals/mammals/facts/cheetah</url>
+            <page-name>Cheetah</page-name>
             <number-of-occurrence-of-yhe-word-on-page>368</number-of-occurrence-of-yhe-word-on-page>
         </link>
         <link>
-            <url>about:blank</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
-        </link>
-        <link>
-            <url>about:blank</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
-        </link>
-        <link>
-            <url>about:blank</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
-        </link>
-        <link>
-            <url>about:blank</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
-        </link>
-        <link>
             <url>https://www.nationalgeographic.com/animals/mammals/facts/cheetah</url>
-            <page-name/>
-            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+            <page-name>Cheetah, facts and photos</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>220</number-of-occurrence-of-yhe-word-on-page>
         </link>
     </links>
 </Cheetah>
