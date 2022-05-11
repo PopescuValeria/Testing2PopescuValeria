@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cheetah>
+    <links>
+        <link>
+            <url>https://www.google.com/search?q=Cheetah&amp;source=hp&amp;ei=YXh7Yr_CJYuFxc8PwsiIgAI&amp;iflsig=AJiK0e8AAAAAYnuGcbOKnTnvqflDTq6UykTJ7E-dEXEV</url>
+            <page-name>Cheetah - Căutare Google</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>264</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>about:blank</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://en.wikipedia.org/wiki/Asiatic_cheetah</url>
+            <page-name>Asiatic cheetah - Wikipedia</page-name>
+            <number-of-occurrence-of-yhe-word-on-page>368</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>about:blank</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>about:blank</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>about:blank</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>about:blank</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+        <link>
+            <url>https://www.nationalgeographic.com/animals/mammals/facts/cheetah</url>
+            <page-name/>
+            <number-of-occurrence-of-yhe-word-on-page>0</number-of-occurrence-of-yhe-word-on-page>
+        </link>
+    </links>
+</Cheetah>
