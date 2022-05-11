@@ -72,13 +72,13 @@ public class GoogleSearch {
             rootElement.appendChild(element1);
 
             int numberOfLinks = links.size();
-            for (int iLinks = 0; iLinks < numberOfLinks; iLinks++) {
+            for (int iLinks = 0; iLinks < 10; iLinks++) {
                 links.get(iLinks).sendKeys(selectLinkOpenInNewTab);
             }
 
 
             ArrayList<String> tabs = new ArrayList<>(driver.getWindowHandles());
-            for (int iTabs = 0; iTabs < tabs.size(); iTabs++) {
+            for (int iTabs = 0; iTabs < 10; iTabs++) {
                 driver.switchTo().window(tabs.get(iTabs));
                 driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
                 System.out.println("Page title  " + iTabs + " " + driver.getTitle());
